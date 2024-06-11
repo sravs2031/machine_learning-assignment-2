@@ -1,4 +1,4 @@
-video link: https://github.com/sravs2031/machine_learning-assignment-2.git
+video link: https://drive.google.com/file/d/1t8UD9XoPVvzszsjyNsNMVR3_z8zVNQKV/view?usp=drive_link
 
 Name: Sravani Mannuru
 Student Id: 700766162 (sxm61620)
